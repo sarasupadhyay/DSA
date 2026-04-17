@@ -1,4 +1,4 @@
-package DSA;
+//package DSA;
 
 class CandyProblem {
     public int candy(int[] ratings) {
