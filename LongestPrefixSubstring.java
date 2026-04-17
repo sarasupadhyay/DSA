@@ -1,4 +1,4 @@
-//package DSA;
+// package DSA;
 
 public class LongestPrefixSubstring {
       public String longestCommonPrefix(String[] strs) {
